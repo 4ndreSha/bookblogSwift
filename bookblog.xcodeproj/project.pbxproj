@@ -98,12 +98,12 @@
 				LastUpgradeCheck = 1400;
 				TargetAttributes = {
 					57E62DFA2BE0060E008A9FD2 = {
-						CreatedOnToolsVersion = 14.0.1;
+						CreatedOnToolsVersion = 13.4.1;
 					};
 				};
 			};
 			buildConfigurationList = 57E62DF62BE0060E008A9FD2 /* Build configuration list for PBXProject "bookblog" */;
-			compatibilityVersion = "Xcode 14.0";
+			compatibilityVersion = "Xcode 13.4.1";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
